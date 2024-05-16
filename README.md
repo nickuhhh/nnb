@@ -35,16 +35,7 @@ It features: animations, scripts, UI, GUI, 3D assets & derivatives, music, audio
 You can use all of these assets however you want, and we made this folder just for you to make sure you don't have to search far and wide for a simple file.
 Now just remember, all of these aren't ours and all belong to nico's stu, so watch out when using them or you can get your game taken down!
 
-And our discord: https://discord.gg/khzSfcmgJA
-
- 
-FINAL WORDS / CREDITS
-
-
-Some of these assets have been assembled with the help of:
-
-The I'm good health discord server/roblox group!                        The nc stu discord server!
-dsc: https://discord.gg/QMgDYav582                                  dsc: https://discord.gg/NfC7UQgZZE
-group: https://www.roblox.com/groups/14528381/Im-good-health#!/     holder: https://www.roblox.com/users/2311918192/profile
+And our discord: https://discord.gg/xMcdwSEcqU
 
 thanks for reading!                                                                                                                                               
+updated : 5/16/2024
