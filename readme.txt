@@ -1,5 +1,5 @@
 
-HEY
+HEY!
 thanks for downloadin' the nnb asset collection
 If you downloaded this from any other place than https://github.com/1nicopatty/nnb-asset-collection
 You might be in DANGER!!!
